@@ -1,4 +1,4 @@
-![alt text](https://www.codewars.com/users/victorlev01/badges/small)
+![alt text](https://www.codewars.com/users/victorlev01/badges/Large)
 <!--
 **victorlev01/victorlev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
